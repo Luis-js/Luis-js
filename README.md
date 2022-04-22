@@ -1,1 +1,2 @@
-<img src="README.png" alt="Luis's README">
+
+<img src="Luis.png" alt="Luis">
