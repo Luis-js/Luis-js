@@ -2,6 +2,7 @@
   <img src="profile_picture.png" alt="Luis" width="250">
   
   <h1 align="center">Luis Pavel</h1>
+  <h3 align="center">Currently working on <a href="https://github.com/Gearz-Studios">Gearz</a>! Improving the web and IoT experience everyday!</h3>
   <p align="center">
     <h3 align="center">
       <a href="https://www.luispavel.com">Website</a>
