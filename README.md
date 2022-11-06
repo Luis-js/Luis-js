@@ -26,7 +26,3 @@
 <a href="https://www.credly.com/badges/86fa5efa-42b8-478d-b571-41b8a5295229/public_url">
   <img src="/introduction-to-iot.png"/>
 </a>
-
-> # Statistics
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luispavela" alt="luispavela" /></p>
